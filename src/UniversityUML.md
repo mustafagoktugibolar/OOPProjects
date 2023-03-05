@@ -1,3 +1,3 @@
 # University UML
 
-[UML](/images/universityUML.png)
+[](/images/universityUML.png)
